@@ -7,3 +7,6 @@ Usage
 ```
 ./download.sh testnet /path/to/ledger
 ```
+
+Donations
+Stake donations are welcome on Mainnet to validator: 2v81fFwWjjsmXjDhJNkhrrZLSpUsmCwTZMjYSCw8F7rp
